@@ -1,0 +1,7 @@
+Para la acciones con las categorias/carpetas y recetas/archivos, es necesario
+que sean ingresados de manera exacta con el nombre que muestra el programa,
+esto se podria solucionar si usaramos upper() o lower(), pero no contempla
+el caso donde los archivos cargado de manera externas tenga en su nomenclatura
+irregularidades
+
+Saludos!!!
